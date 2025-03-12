@@ -16,11 +16,12 @@ def afficher_menu():
     print("10. Taquin")
     print("11. Pacman")
     print("12. 2048")
-    print("13. Quitter")
+    print("13. DOOM")
+    print("14. Quitter")
     print("==================")
     print("    nailec.fr")
     print("==================")
-    return input("Choisissez un jeu (1-13): ")
+    return input("Choisissez un jeu (1-14): ")
 
 def main():
     while True:
@@ -63,6 +64,9 @@ def main():
             import G2048
             G2048.main()
         elif choix == "13":
+            import DOOM
+            DOOM.main()
+        elif choix == "14":
             print("Au revoir!")
             print("nailec.fr")
             break
