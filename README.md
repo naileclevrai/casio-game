@@ -1,3 +1,4 @@
+# NE FONCTIONE PAS COMPLETEMENT (LES PR SONT LES BIENVENUES)
 # 🎮 Collection de Jeux pour Calculatrice CASIO GRAPH 35+ E2
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
